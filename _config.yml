@@ -66,7 +66,7 @@ gitalk:
   clientSecret: 6f8326eebb6269b16a13a4a894bdfb1d1d88553c    #生成的clientSecret
   repo: Zengpeizhi.github.io  #仓库名称
   owner: Zengpeizhi    #github用户名
-  admin: Zengpeizhi
+  admin: [Zengpeizhi]
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
