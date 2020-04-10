@@ -19,7 +19,7 @@ tags:
 
 这个问题还是比较好解决的，给大家推荐一个mathpix的软件，可以直接截图然后就识别成对应的公式latex。识别准确率很棒！！！强烈推荐！大致的使用效果如图：
 
-![](https://github.com/Zengpeizhi/Zengpeizhi.github.io/blob/master/img/markdown1.jpg?raw=true)
+![](https://github.com/Zengpeizhi/Zengpeizhi.github.io/blob/master/img/markdown1.png?raw=true)
 
 **一个小tips**：最好使用学校邮箱注册，可以免费使用的识别次数多很多
 
